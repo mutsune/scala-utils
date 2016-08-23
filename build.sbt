@@ -1,4 +1,4 @@
-name := "mutsune-utils"
+name := "scala-utils"
 
 version := "1.0"
 
